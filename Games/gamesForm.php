@@ -21,7 +21,7 @@ table {
 <h1>Video Games</h1>
 <table style="width:45%">
   
-        <!-- add movies rows here -->
+        <!-- add Video games rows here -->
    <tr>
     <td><form action="index.php" method="post">
      <th>Movie: <?php echo $_GET["Gname"]; ?></th>
